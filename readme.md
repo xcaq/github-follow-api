@@ -68,4 +68,4 @@ $ ruby user.rb <login> <password> <target>
 
 ### License
 
-Copyright © 2019, [Davi Guimarães](https://github.com/davigl).
+Copyright © 2019, [Davi Guimarães](https://github.com/xcaq/github-follow-api/blob/master/LICENSE).
